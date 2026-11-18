@@ -1,0 +1,7 @@
+﻿id_equipo,nombre,categoria,cantidad_total,cantidad_disponible,precio_unitario,fecha_compra,estado,ubicacion,vida_util_estimada_meses
+201,Mancuernas 10kg,Pesas,40,35,500,2022-01-01,Bueno,Sala Pesas,60
+202,Colchoneta Yoga,Accesorios,30,28,300,2023-05-10,Excelente,Sala Yoga,24
+203,Cuerda para saltar,Cardio,50,45,150,2021-08-15,Regular,Recepcion,12
+204,Balon Medicinal 5kg,Pesas,20,18,600,2022-11-20,Bueno,Sala Pesas,36
+205,Banda elastica,Accesorios,40,38,100,2023-02-05,Excelente,Sala Yoga,18
+206,Kettlebell 12kg,Pesas,25,22,700,2022-06-30,Bueno,Sala Pesas,48
